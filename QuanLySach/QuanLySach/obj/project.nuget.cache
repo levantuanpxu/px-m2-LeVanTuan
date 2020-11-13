@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pHj3cYlQDZfZ3q3qHRrPlFHyYW2afz0IfjBN99KYa3cnlX7s3tJmLZr68akR6yhb9hdFoJd4RF/lvgbkIbeqTA==",
+  "dgSpecHash": "nHUHtQ652z+5Z2qbQHPH/FSA3zkpeg/wB1ed4b+YvASmPSpVOi5iH7GooQP7OyF0N3P9HNeLEOZLey3JwGCasw==",
   "success": true,
-  "projectFilePath": "D:\\Ktra-m2\\QuanLySach\\QuanLySach\\QuanLySach.csproj",
+  "projectFilePath": "C:\\Users\\LOVE\\Desktop\\Downloads\\px-m2-LeVanTuan-main\\QuanLySach\\QuanLySach\\QuanLySach.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LOVE\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.9\\microsoft.aspnetcore.mvc.razor.extensions.3.1.9.nupkg.sha512",
     "C:\\Users\\LOVE\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.9\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.9.nupkg.sha512",

@@ -6178,11 +6178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ktra-m2\\QuanLySach\\QuanLySach\\QuanLySach.csproj",
+      "projectUniqueName": "C:\\Users\\LOVE\\Desktop\\Downloads\\px-m2-LeVanTuan-main\\QuanLySach\\QuanLySach\\QuanLySach.csproj",
       "projectName": "QuanLySach",
-      "projectPath": "D:\\Ktra-m2\\QuanLySach\\QuanLySach\\QuanLySach.csproj",
+      "projectPath": "C:\\Users\\LOVE\\Desktop\\Downloads\\px-m2-LeVanTuan-main\\QuanLySach\\QuanLySach\\QuanLySach.csproj",
       "packagesPath": "C:\\Users\\LOVE\\.nuget\\packages\\",
-      "outputPath": "D:\\Ktra-m2\\QuanLySach\\QuanLySach\\obj\\",
+      "outputPath": "C:\\Users\\LOVE\\Desktop\\Downloads\\px-m2-LeVanTuan-main\\QuanLySach\\QuanLySach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LOVE\\AppData\\Roaming\\NuGet\\NuGet.Config",
